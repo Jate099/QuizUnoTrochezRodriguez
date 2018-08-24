@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">QuizTroches_Rodriguez</string>
+    <string name="tv_bienvenido">Bienvenido al sistema de login a otro nivel</string>
+    <string name="et_usuario">Usuario</string>
+    <string name="et_contraseña">Contraseña</string>
+    <string name="tv_aviso">El usuario o la contraseña no es correcta</string>
+    <string name="btn_ingresar">Ingresar</string>
+    <string name="tv_hola">Hola ADMINISTRADOR</string>
+    <string name="tv_avisodos">Este perfil se encuentra bajo construcción,
+        proximamente disfruta del mejor contenido en esta actividad</string>
+    <string name="btn_cerrar">CERRAR SESIÓN</string>
+</resources>
